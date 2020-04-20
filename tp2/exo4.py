@@ -14,7 +14,7 @@ print(abc[-3:])
 liste = [1, 4, 1, 2, 1, 5, 3, 1, 12]
 a = len(liste)
 b = liste[0]
-liste.append(0)
+liste.append(0) #ajouter un element à la suite 
 c = len(liste)
 d = liste[-1]
 
